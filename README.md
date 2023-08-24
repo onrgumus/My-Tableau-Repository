@@ -1,5 +1,3 @@
-# My-Tableau-Repository
- 
 # My Tableau Repository
 
 Welcome to My Tableau Repository! This repository is a collection of data visualization projects and resources created using Tableau, a powerful data visualization and business intelligence tool. Whether you're a data enthusiast, a business analyst, or just curious about exploring data in a visually appealing way, you've come to the right place.
